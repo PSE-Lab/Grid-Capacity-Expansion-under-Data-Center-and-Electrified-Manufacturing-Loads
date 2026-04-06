@@ -1,0 +1,744 @@
+﻿id,atb_year,core_metric_key,core_metric_parameter,core_metric_case,tax_credit_case,crpyears,technology,technology_alias,techdetail,techdetail2,resourcedetail,display_name,default,scale,maturity,scenario,core_metric_variable,units,value
+55495,2024,17192,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2022,$/kW,4078.562869
+233343,2024,38918,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2023,$/kW,4056.941989
+412049,2024,60644,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2024,$/kW,4035.321108
+446693,2024,82370,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2025,$/kW,4013.700228
+3321,2024,104096,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2026,$/kW,3992.079348
+20040,2024,125822,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2027,$/kW,3970.458467
+36837,2024,147548,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2028,$/kW,3948.837587
+53501,2024,169274,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2029,$/kW,3927.216707
+71205,2024,191000,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2030,$/kW,3905.595826
+88644,2024,212726,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2031,$/kW,3883.974946
+105817,2024,234452,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2032,$/kW,3862.354066
+123696,2024,256178,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2033,$/kW,3841.103829
+141432,2024,277904,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2034,$/kW,3818.865209
+159267,2024,299630,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2035,$/kW,3797.491425
+176982,2024,321356,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2036,$/kW,3762.280277
+194958,2024,343082,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2037,$/kW,3726.945581
+213099,2024,364808,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2038,$/kW,3691.734433
+230989,2024,386534,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2039,$/kW,3656.399737
+249149,2024,408260,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2040,$/kW,3621.065041
+266670,2024,429986,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2041,$/kW,3585.853893
+284086,2024,451712,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2042,$/kW,3550.519197
+302153,2024,473438,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2043,$/kW,3515.308049
+320063,2024,495164,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2044,$/kW,3479.973353
+338026,2024,516890,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2045,$/kW,3444.638657
+355729,2024,538616,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2046,$/kW,3409.427509
+373797,2024,560342,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2047,$/kW,3374.092813
+391908,2024,582068,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2048,$/kW,3338.881665
+409697,2024,603794,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2049,$/kW,3303.54697
+427859,2024,625520,CAPEX,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2050,$/kW,3268.335822
+55383,2024,17147,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2022,$/kW*yr,86.5
+233023,2024,38873,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2023,$/kW*yr,86.1
+411729,2024,60599,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2024,$/kW*yr,85.7
+446643,2024,82325,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2025,$/kW*yr,85.3
+3276,2024,104051,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2026,$/kW*yr,84.9
+19995,2024,125777,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2027,$/kW*yr,84.5
+36788,2024,147503,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2028,$/kW*yr,84.1
+53451,2024,169229,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2029,$/kW*yr,83.7
+71153,2024,190955,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2030,$/kW*yr,83.3
+88595,2024,212681,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2031,$/kW*yr,82.9
+105767,2024,234407,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2032,$/kW*yr,82.5
+123647,2024,256133,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2033,$/kW*yr,82
+141381,2024,277859,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2034,$/kW*yr,82
+159217,2024,299585,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2035,$/kW*yr,81.2
+176937,2024,321311,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2036,$/kW*yr,80.6
+194913,2024,343037,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2037,$/kW*yr,79.9
+213049,2024,364763,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2038,$/kW*yr,79.3
+230938,2024,386489,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2039,$/kW*yr,78.6
+249099,2024,408215,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2040,$/kW*yr,77.9
+266621,2024,429941,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2041,$/kW*yr,77.3
+284035,2024,451667,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2042,$/kW*yr,76.6
+302103,2024,473393,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2043,$/kW*yr,75.9
+320013,2024,495119,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2044,$/kW*yr,75.3
+337976,2024,516845,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2045,$/kW*yr,74.6
+355683,2024,538571,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2046,$/kW*yr,74
+373751,2024,560297,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2047,$/kW*yr,73.3
+391859,2024,582023,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2048,$/kW*yr,72.6
+409647,2024,603749,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2049,$/kW*yr,72
+427809,2024,625475,Fixed O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2050,$/kW*yr,71.3
+55400,2024,17162,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2022,$/MWh,9.3
+233129,2024,38888,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2023,$/MWh,9.26
+411836,2024,60614,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2024,$/MWh,9.22
+446660,2024,82340,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2025,$/MWh,9.18
+3291,2024,104066,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2026,$/MWh,9.14
+20010,2024,125792,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2027,$/MWh,9.1
+36804,2024,147518,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2028,$/MWh,9.06
+53468,2024,169244,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2029,$/MWh,9.03
+71170,2024,190970,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2030,$/MWh,8.99
+88611,2024,212696,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2031,$/MWh,8.95
+105784,2024,234422,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2032,$/MWh,8.91
+123663,2024,256148,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2033,$/MWh,8.87
+141398,2024,277874,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2034,$/MWh,8.83
+159234,2024,299600,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2035,$/MWh,8.79
+176952,2024,321326,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2036,$/MWh,8.76
+194928,2024,343052,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2037,$/MWh,8.73
+213065,2024,364778,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2038,$/MWh,8.7
+230956,2024,386504,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2039,$/MWh,8.67
+249116,2024,408230,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2040,$/MWh,8.64
+266637,2024,429956,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2041,$/MWh,8.61
+284052,2024,451682,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2042,$/MWh,8.58
+302120,2024,473408,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2043,$/MWh,8.55
+320030,2024,495134,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2044,$/MWh,8.52
+337993,2024,516860,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2045,$/MWh,8.49
+355698,2024,538586,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2046,$/MWh,8.46
+373767,2024,560312,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2047,$/MWh,8.43
+391875,2024,582038,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2048,$/MWh,8.4
+409664,2024,603764,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2049,$/MWh,8.37
+427826,2024,625490,Variable O&M,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2050,$/MWh,8.34
+55126,2024,17102,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2022,MMBtu/MWh,8.49
+232613,2024,38828,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2023,MMBtu/MWh,8.466
+411320,2024,60554,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2024,MMBtu/MWh,8.442
+446594,2024,82280,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2025,MMBtu/MWh,8.419
+3231,2024,104006,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2026,MMBtu/MWh,8.395
+19950,2024,125732,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2027,MMBtu/MWh,8.371
+36738,2024,147458,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2028,MMBtu/MWh,8.347
+53402,2024,169184,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2029,MMBtu/MWh,8.324
+71104,2024,190910,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2030,MMBtu/MWh,8.3
+88545,2024,212636,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2031,MMBtu/MWh,8.276
+105717,2024,234362,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2032,MMBtu/MWh,8.253
+123597,2024,256088,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2033,MMBtu/MWh,8.23
+141332,2024,277814,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2034,MMBtu/MWh,8.21
+159168,2024,299540,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2035,MMBtu/MWh,8.182
+176892,2024,321266,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2036,MMBtu/MWh,8.182
+194866,2024,342992,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2037,MMBtu/MWh,8.182
+212999,2024,364718,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2038,MMBtu/MWh,8.182
+230890,2024,386444,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2039,MMBtu/MWh,8.182
+249049,2024,408170,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2040,MMBtu/MWh,8.182
+266570,2024,429896,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2041,MMBtu/MWh,8.182
+283986,2024,451622,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2042,MMBtu/MWh,8.182
+302053,2024,473348,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2043,MMBtu/MWh,8.182
+319964,2024,495074,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2044,MMBtu/MWh,8.182
+337927,2024,516800,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2045,MMBtu/MWh,8.182
+355638,2024,538526,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2046,MMBtu/MWh,8.182
+373706,2024,560252,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2047,MMBtu/MWh,8.182
+391807,2024,581978,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2048,MMBtu/MWh,8.182
+409599,2024,603704,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2049,MMBtu/MWh,8.182
+427760,2024,625430,Heat Rate,R&D,,20,Coal_FE,Coal,Coal-new,New,Coal,Coal-new,1,Utility,Y,Moderate,2050,MMBtu/MWh,8.182
+63722,2024,18179,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2022,$/kW,1536.026755
+241699,2024,39905,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2023,$/kW,1522.431625
+420446,2024,61631,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2024,$/kW,1508.947931
+447591,2024,83357,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2025,$/kW,1495.352802
+4240,2024,105083,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2026,$/kW,1481.869108
+20955,2024,126809,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2027,$/kW,1468.273979
+37727,2024,148535,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2028,$/kW,1454.790285
+54413,2024,170261,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2029,$/kW,1441.195155
+72090,2024,191987,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2030,$/kW,1427.711461
+89574,2024,213713,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2031,$/kW,1414.116332
+106727,2024,235439,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2032,$/kW,1400.632638
+124560,2024,257165,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2033,$/kW,1387.037509
+142352,2024,278891,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2034,$/kW,1373.553815
+160166,2024,300617,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2035,$/kW,1359.958685
+177900,2024,322343,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2036,$/kW,1349.70662
+195884,2024,344069,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2037,$/kW,1339.454556
+213994,2024,365795,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2038,$/kW,1329.202491
+231901,2024,387521,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2039,$/kW,1318.950426
+250035,2024,409247,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2040,$/kW,1308.698361
+267612,2024,430973,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2041,$/kW,1298.446296
+284995,2024,452699,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2042,$/kW,1288.082796
+303027,2024,474425,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2043,$/kW,1277.830731
+320974,2024,496151,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2044,$/kW,1267.578666
+338923,2024,517877,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2045,$/kW,1257.326602
+356658,2024,539603,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2046,$/kW,1247.074537
+374723,2024,561329,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2047,$/kW,1236.822472
+392808,2024,583055,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2048,$/kW,1226.570407
+410608,2024,604781,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2049,$/kW,1216.206907
+428738,2024,626507,CAPEX,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2050,$/kW,1205.954842
+62940,2024,18089,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2022,$/kW*yr,34.1
+240927,2024,39815,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2023,$/kW*yr,33.8
+419674,2024,61541,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2024,$/kW*yr,33.5
+447494,2024,83267,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2025,$/kW*yr,33.2
+4140,2024,104993,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2026,$/kW*yr,32.8
+20856,2024,126719,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2027,$/kW*yr,32.5
+37637,2024,148445,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2028,$/kW*yr,32.2
+54313,2024,170171,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2029,$/kW*yr,31.8
+71999,2024,191897,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2030,$/kW*yr,31.5
+89475,2024,213623,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2031,$/kW*yr,31.2
+106627,2024,235349,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2032,$/kW*yr,30.9
+124470,2024,257075,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2033,$/kW*yr,30.5
+142262,2024,278801,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2034,$/kW*yr,30.2
+160069,2024,300527,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2035,$/kW*yr,29.9
+177801,2024,322253,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2036,$/kW*yr,29.6
+195783,2024,343979,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2037,$/kW*yr,29.4
+213904,2024,365705,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2038,$/kW*yr,29.2
+231801,2024,387431,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2039,$/kW*yr,29
+249944,2024,409157,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2040,$/kW*yr,28.7
+267512,2024,430883,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2041,$/kW*yr,28.5
+284896,2024,452609,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2042,$/kW*yr,28.3
+302936,2024,474335,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2043,$/kW*yr,28.1
+320884,2024,496061,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2044,$/kW*yr,27.8
+338826,2024,517787,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2045,$/kW*yr,27.6
+356558,2024,539513,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2046,$/kW*yr,27.4
+374623,2024,561239,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2047,$/kW*yr,27.2
+392716,2024,582965,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2048,$/kW*yr,26.9
+410508,2024,604691,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2049,$/kW*yr,26.7
+428647,2024,626417,Fixed O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2050,$/kW*yr,26.5
+63214,2024,18119,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2022,$/MWh,2.16
+241197,2024,39845,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2023,$/MWh,2.15
+419944,2024,61571,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2024,$/MWh,2.13
+447527,2024,83297,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2025,$/MWh,2.12
+4174,2024,105023,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2026,$/MWh,2.1
+20889,2024,126749,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2027,$/MWh,2.08
+37667,2024,148475,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2028,$/MWh,2.07
+54347,2024,170201,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2029,$/MWh,2.05
+72030,2024,191927,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2030,$/MWh,2.04
+89508,2024,213653,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2031,$/MWh,2.02
+106660,2024,235379,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2032,$/MWh,2.01
+124500,2024,257105,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2033,$/MWh,1.99
+142292,2024,278831,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2034,$/MWh,1.97
+160102,2024,300557,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2035,$/MWh,1.96
+177834,2024,322283,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2036,$/MWh,1.95
+195818,2024,344009,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2037,$/MWh,1.93
+213934,2024,365735,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2038,$/MWh,1.92
+231834,2024,387461,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2039,$/MWh,1.91
+249974,2024,409187,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2040,$/MWh,1.9
+267546,2024,430913,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2041,$/MWh,1.89
+284929,2024,452639,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2042,$/MWh,1.88
+302966,2024,474365,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2043,$/MWh,1.86
+320914,2024,496091,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2044,$/MWh,1.85
+338859,2024,517817,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2045,$/MWh,1.84
+356591,2024,539543,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2046,$/MWh,1.83
+374656,2024,561269,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2047,$/MWh,1.82
+392746,2024,582995,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2048,$/MWh,1.81
+410542,2024,604721,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2049,$/MWh,1.79
+428677,2024,626447,Variable O&M,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2050,$/MWh,1.78
+62142,2024,17999,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2022,MMBtu/MWh,6.196
+240139,2024,39725,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2023,MMBtu/MWh,6.187
+418886,2024,61451,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2024,MMBtu/MWh,6.177
+447395,2024,83177,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2025,MMBtu/MWh,6.168
+4041,2024,104903,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2026,MMBtu/MWh,6.159
+20760,2024,126629,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2027,MMBtu/MWh,6.15
+37544,2024,148355,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2028,MMBtu/MWh,6.14
+54213,2024,170081,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2029,MMBtu/MWh,6.131
+71909,2024,191807,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2030,MMBtu/MWh,6.122
+89376,2024,213533,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2031,MMBtu/MWh,6.112
+106527,2024,235259,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2032,MMBtu/MWh,6.103
+124379,2024,256985,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2033,MMBtu/MWh,6.094
+142171,2024,278711,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2034,MMBtu/MWh,6.085
+159970,2024,300437,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2035,MMBtu/MWh,6.075
+177702,2024,322163,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2036,MMBtu/MWh,6.075
+195686,2024,343889,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2037,MMBtu/MWh,6.075
+213811,2024,365615,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2038,MMBtu/MWh,6.075
+231701,2024,387341,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2039,MMBtu/MWh,6.075
+249853,2024,409067,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2040,MMBtu/MWh,6.075
+267412,2024,430793,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2041,MMBtu/MWh,6.075
+284796,2024,452519,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2042,MMBtu/MWh,6.075
+302845,2024,474245,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2043,MMBtu/MWh,6.075
+320793,2024,495971,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2044,MMBtu/MWh,6.075
+338727,2024,517697,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2045,MMBtu/MWh,6.075
+356458,2024,539423,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2046,MMBtu/MWh,6.075
+374526,2024,561149,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2047,MMBtu/MWh,6.075
+392622,2024,582875,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2048,MMBtu/MWh,6.075
+410409,2024,604601,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2049,MMBtu/MWh,6.075
+428556,2024,626327,Heat Rate,R&D,,20,NaturalGas_FE,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),H-Frame CC,Natural Gas,NG 2-on-1 Combined Cycle (H-Frame),0,Utility,Y,Moderate,2050,MMBtu/MWh,6.075
+73070,2024,193117,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2030,$/kW,7616.35897
+90653,2024,214843,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2031,$/kW,7551.261885
+107788,2024,236569,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2032,$/kW,7486.1648
+125596,2024,258295,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2033,$/kW,7421.067714
+143345,2024,280021,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2034,$/kW,7355.970629
+161188,2024,301747,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2035,$/kW,7290.873544
+178949,2024,323473,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2036,$/kW,7095.582288
+196939,2024,345199,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2037,$/kW,6900.291033
+215044,2024,366925,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2038,$/kW,6704.999777
+232966,2024,388651,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2039,$/kW,6509.708521
+251013,2024,410377,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2040,$/kW,6314.417266
+268705,2024,432103,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2041,$/kW,6184.223095
+286057,2024,453829,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2042,$/kW,6054.028925
+304065,2024,475555,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2043,$/kW,5923.834754
+321954,2024,497281,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2044,$/kW,5793.640584
+339944,2024,519007,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2045,$/kW,5663.446414
+357720,2024,540733,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2046,$/kW,5533.252243
+375778,2024,562459,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2047,$/kW,5403.058073
+393869,2024,584185,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2048,$/kW,5272.863902
+411673,2024,605911,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2049,$/kW,5142.669732
+429716,2024,627637,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2050,$/kW,5012.475561
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2022,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2023,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2024,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2025,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2026,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2027,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2028,$/kW*yr,175
+777,2024,777,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2029,$/kW*yr,175
+73045,2024,193093,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2030,$/kW*yr,175
+90626,2024,214819,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2031,$/kW*yr,175
+107762,2024,236545,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2032,$/kW*yr,175
+125570,2024,258271,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2033,$/kW*yr,175
+143316,2024,279997,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2034,$/kW*yr,175
+161162,2024,301723,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2035,$/kW*yr,175
+178922,2024,323449,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2036,$/kW*yr,175
+196913,2024,345175,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2037,$/kW*yr,175
+215018,2024,366901,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2038,$/kW*yr,175
+232939,2024,388627,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2039,$/kW*yr,175
+250989,2024,410353,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2040,$/kW*yr,175
+268677,2024,432079,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2041,$/kW*yr,175
+286031,2024,453805,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2042,$/kW*yr,175
+304039,2024,475531,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2043,$/kW*yr,175
+321927,2024,497257,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2044,$/kW*yr,175
+339918,2024,518983,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2045,$/kW*yr,175
+357693,2024,540709,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2046,$/kW*yr,175
+375752,2024,562435,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2047,$/kW*yr,175
+393843,2024,584161,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2048,$/kW*yr,175
+411645,2024,605887,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2049,$/kW*yr,175
+429692,2024,627613,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2050,$/kW*yr,175
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2022,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2023,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2024,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2025,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2026,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2027,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2028,$/MWh,2.8
+777,2024,777,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2029,$/MWh,2.8
+73051,2024,193099,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2030,$/MWh,2.8
+90633,2024,214825,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2031,$/MWh,2.8
+107769,2024,236551,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2032,$/MWh,2.8
+125576,2024,258277,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2033,$/MWh,2.8
+143325,2024,280003,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2034,$/MWh,2.8
+161168,2024,301729,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2035,$/MWh,2.8
+178929,2024,323455,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2036,$/MWh,2.8
+196920,2024,345181,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2037,$/MWh,2.8
+215024,2024,366907,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2038,$/MWh,2.8
+232946,2024,388633,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2039,$/MWh,2.8
+250995,2024,410359,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2040,$/MWh,2.8
+268684,2024,432085,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2041,$/MWh,2.8
+286038,2024,453811,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2042,$/MWh,2.8
+304045,2024,475537,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2043,$/MWh,2.8
+321934,2024,497263,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2044,$/MWh,2.8
+339924,2024,518989,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2045,$/MWh,2.8
+357700,2024,540715,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2046,$/MWh,2.8
+375759,2024,562441,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2047,$/MWh,2.8
+393849,2024,584167,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2048,$/MWh,2.8
+411652,2024,605893,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2049,$/MWh,2.8
+429698,2024,627619,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2050,$/MWh,2.8
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2022,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2023,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2024,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2025,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2026,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2027,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2028,MMBtu/MWh,10.497
+777,2024,777,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2029,MMBtu/MWh,10.497
+73082,2024,193129,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2030,MMBtu/MWh,10.497
+90666,2024,214855,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2031,MMBtu/MWh,10.497
+107802,2024,236581,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2032,MMBtu/MWh,10.497
+125610,2024,258307,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2033,MMBtu/MWh,10.497
+143358,2024,280033,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2034,MMBtu/MWh,10.497
+161201,2024,301759,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2035,MMBtu/MWh,10.497
+178962,2024,323485,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2036,MMBtu/MWh,10.497
+196954,2024,345211,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2037,MMBtu/MWh,10.497
+215057,2024,366937,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2038,MMBtu/MWh,10.497
+232979,2024,388663,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2039,MMBtu/MWh,10.497
+251025,2024,410389,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2040,MMBtu/MWh,10.497
+268718,2024,432115,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2041,MMBtu/MWh,10.497
+286071,2024,453841,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2042,MMBtu/MWh,10.497
+304078,2024,475567,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2043,MMBtu/MWh,10.497
+321967,2024,497293,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2044,MMBtu/MWh,10.497
+339957,2024,519019,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2045,MMBtu/MWh,10.497
+357733,2024,540745,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2046,MMBtu/MWh,10.497
+375792,2024,562471,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2047,MMBtu/MWh,10.497
+393882,2024,584197,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2048,MMBtu/MWh,10.497
+411686,2024,605923,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2049,MMBtu/MWh,10.497
+429728,2024,627649,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Large,Nuclear,Large,Nuclear - Large,1,Utility,Y,Moderate,2050,MMBtu/MWh,10.497
+73073,2024,193120,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2030,$/kW,9650.000677
+90656,2024,214846,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2031,$/kW,9292.593245
+107792,2024,236572,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2032,$/kW,8935.185812
+125599,2024,258298,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2033,$/kW,8577.77838
+143348,2024,280024,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2034,$/kW,8220.370947
+161192,2024,301750,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2035,$/kW,7862.963515
+178952,2024,323476,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2036,$/kW,7565.123988
+196944,2024,345202,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2037,$/kW,7267.28446
+215047,2024,366928,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2038,$/kW,6969.444933
+232969,2024,388654,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2039,$/kW,6671.605406
+251016,2024,410380,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2040,$/kW,6373.765879
+268708,2024,432106,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2041,$/kW,6195.062163
+286061,2024,453832,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2042,$/kW,6016.358447
+304068,2024,475558,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2043,$/kW,5837.654731
+321957,2024,497284,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2044,$/kW,5658.951014
+339948,2024,519010,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2045,$/kW,5480.247298
+357723,2024,540736,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2046,$/kW,5361.111487
+375782,2024,562462,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2047,$/kW,5241.975676
+393872,2024,584188,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2048,$/kW,5122.839866
+411676,2024,605914,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2049,$/kW,5003.704055
+429719,2024,627640,CAPEX,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2050,$/kW,4884.568244
+73048,2024,193096,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2030,$/kW*yr,136
+90630,2024,214822,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2031,$/kW*yr,136
+107765,2024,236548,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2032,$/kW*yr,136
+125573,2024,258274,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2033,$/kW*yr,136
+143322,2024,280000,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2034,$/kW*yr,136
+161165,2024,301726,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2035,$/kW*yr,136
+178926,2024,323452,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2036,$/kW*yr,136
+196916,2024,345178,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2037,$/kW*yr,136
+215021,2024,366904,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2038,$/kW*yr,136
+232943,2024,388630,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2039,$/kW*yr,136
+250992,2024,410356,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2040,$/kW*yr,136
+268681,2024,432082,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2041,$/kW*yr,136
+286034,2024,453808,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2042,$/kW*yr,136
+304042,2024,475534,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2043,$/kW*yr,136
+321931,2024,497260,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2044,$/kW*yr,136
+339921,2024,518986,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2045,$/kW*yr,136
+357697,2024,540712,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2046,$/kW*yr,136
+375755,2024,562438,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2047,$/kW*yr,136
+393846,2024,584164,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2048,$/kW*yr,136
+411649,2024,605890,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2049,$/kW*yr,136
+429695,2024,627616,Fixed O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2050,$/kW*yr,136
+73055,2024,193102,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2030,$/MWh,2.6
+90636,2024,214828,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2031,$/MWh,2.6
+107772,2024,236554,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2032,$/MWh,2.6
+125580,2024,258280,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2033,$/MWh,2.6
+143328,2024,280006,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2034,$/MWh,2.6
+161172,2024,301732,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2035,$/MWh,2.6
+178932,2024,323458,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2036,$/MWh,2.6
+196923,2024,345184,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2037,$/MWh,2.6
+215028,2024,366910,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2038,$/MWh,2.6
+232949,2024,388636,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2039,$/MWh,2.6
+250998,2024,410362,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2040,$/MWh,2.6
+268687,2024,432088,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2041,$/MWh,2.6
+286041,2024,453814,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2042,$/MWh,2.6
+304049,2024,475540,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2043,$/MWh,2.6
+321937,2024,497266,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2044,$/MWh,2.6
+339928,2024,518992,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2045,$/MWh,2.6
+357703,2024,540718,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2046,$/MWh,2.6
+375762,2024,562444,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2047,$/MWh,2.6
+393853,2024,584170,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2048,$/MWh,2.6
+411655,2024,605896,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2049,$/MWh,2.6
+429701,2024,627622,Variable O&M,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2050,$/MWh,2.6
+73085,2024,193132,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2030,MMBtu/MWh,9.18
+90669,2024,214858,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2031,MMBtu/MWh,9.18
+107805,2024,236584,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2032,MMBtu/MWh,9.18
+125614,2024,258310,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2033,MMBtu/MWh,9.18
+143361,2024,280036,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2034,MMBtu/MWh,9.18
+161205,2024,301762,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2035,MMBtu/MWh,9.18
+178965,2024,323488,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2036,MMBtu/MWh,9.18
+196957,2024,345214,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2037,MMBtu/MWh,9.18
+215061,2024,366940,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2038,MMBtu/MWh,9.18
+232982,2024,388666,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2039,MMBtu/MWh,9.18
+251028,2024,410392,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2040,MMBtu/MWh,9.18
+268721,2024,432118,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2041,MMBtu/MWh,9.18
+286074,2024,453844,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2042,MMBtu/MWh,9.18
+304082,2024,475570,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2043,MMBtu/MWh,9.18
+321970,2024,497296,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2044,MMBtu/MWh,9.18
+339961,2024,519022,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2045,MMBtu/MWh,9.18
+357736,2024,540748,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2046,MMBtu/MWh,9.18
+375795,2024,562474,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2047,MMBtu/MWh,9.18
+393887,2024,584200,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2048,MMBtu/MWh,9.18
+411689,2024,605926,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2049,MMBtu/MWh,9.18
+429731,2024,627652,Heat Rate,R&D,,20,Nuclear,Nuclear,Nuclear - Small,Nuclear,Small,Nuclear - Small,0,Utility,N,Moderate,2050,MMBtu/MWh,9.18
+437853,2024,7144,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2022,$/kW,1482.68328
+150444,2024,28870,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2023,$/kW,1610.904664
+329161,2024,50596,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2024,$/kW,1551.272704
+438673,2024,72322,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2025,$/kW,1491.640744
+455288,2024,94048,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2026,$/kW,1432.008784
+12108,2024,115774,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2027,$/kW,1372.376824
+28820,2024,137500,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2028,$/kW,1312.744864
+45599,2024,159226,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2029,$/kW,1253.112904
+63010,2024,180952,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2030,$/kW,1193.480944
+80535,2024,202678,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2031,$/kW,1133.848984
+98359,2024,224404,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2032,$/kW,1074.217024
+115658,2024,246130,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2033,$/kW,1014.585064
+133389,2024,267856,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2034,$/kW,954.9531037
+151272,2024,289582,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2035,$/kW,895.3211436
+169040,2024,311308,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2036,$/kW,881.1594911
+186915,2024,333034,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2037,$/kW,866.9978386
+204980,2024,354760,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2038,$/kW,852.836186
+223064,2024,376486,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2039,$/kW,838.6745335
+240996,2024,398212,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2040,$/kW,824.512881
+258630,2024,419938,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2041,$/kW,810.3512284
+276593,2024,441664,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2042,$/kW,796.1895759
+294125,2024,463390,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2043,$/kW,782.0279234
+312043,2024,485116,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2044,$/kW,767.8662709
+329990,2024,506842,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2045,$/kW,753.7046183
+347738,2024,528568,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2046,$/kW,739.5429658
+365753,2024,550294,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2047,$/kW,725.3813133
+383790,2024,572020,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2048,$/kW,711.2196607
+401869,2024,593746,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2049,$/kW,697.0580082
+419743,2024,615472,CAPEX,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2050,$/kW,682.8963557
+436945,2024,7024,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2022,$/kW*yr,23.76560346
+149529,2024,28750,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2023,$/kW*yr,22.21880245
+328246,2024,50476,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2024,$/kW*yr,21.60888882
+438571,2024,72202,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2025,$/kW*yr,21.00107658
+455185,2024,93928,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2026,$/kW*yr,20.39527973
+12018,2024,115654,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2027,$/kW*yr,19.79141686
+28718,2024,137380,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2028,$/kW*yr,19.18941091
+45497,2024,159106,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2029,$/kW*yr,18.58918887
+62907,2024,180832,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2030,$/kW*yr,17.99068147
+80433,2024,202558,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2031,$/kW*yr,17.39382303
+98262,2024,224284,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2032,$/kW*yr,16.79855113
+115555,2024,246010,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2033,$/kW*yr,16.2048065
+133287,2024,267736,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2034,$/kW*yr,15.61253278
+151169,2024,289462,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2035,$/kW*yr,15.02167633
+168936,2024,311188,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2036,$/kW*yr,14.86931809
+186823,2024,332914,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2037,$/kW*yr,14.71724064
+204877,2024,354640,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2038,$/kW*yr,14.56543935
+222961,2024,376366,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2039,$/kW*yr,14.41390973
+240894,2024,398092,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2040,$/kW*yr,14.26264738
+258528,2024,419818,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2041,$/kW*yr,14.11164797
+276497,2024,441544,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2042,$/kW*yr,13.9609073
+294022,2024,463270,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2043,$/kW*yr,13.81042124
+311938,2024,484996,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2044,$/kW*yr,13.66018574
+329887,2024,506722,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2045,$/kW*yr,13.51019684
+347635,2024,528448,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2046,$/kW*yr,13.36045068
+365662,2024,550174,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2047,$/kW*yr,13.21094346
+383686,2024,571900,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2048,$/kW*yr,13.06167147
+401767,2024,593626,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2049,$/kW*yr,12.91263107
+419641,2024,615352,Fixed O&M,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2050,$/kW*yr,12.76381869
+436215,2024,6934,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2022,,0.276402901
+148799,2024,28660,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2023,,0.278098365
+327516,2024,50386,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2024,,0.279793829
+438472,2024,72112,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2025,,0.281489293
+455086,2024,93838,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2026,,0.283184757
+11923,2024,115564,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2027,,0.284880221
+28619,2024,137290,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2028,,0.286575685
+45398,2024,159016,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2029,,0.288271149
+62807,2024,180742,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2030,,0.289966613
+80334,2024,202468,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2031,,0.291662077
+98162,2024,224194,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2032,,0.293357541
+115454,2024,245920,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2033,,0.295053005
+133188,2024,267646,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2034,,0.296748469
+151069,2024,289372,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2035,,0.298443933
+168836,2024,311098,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2036,,0.299613702
+186727,2024,332824,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2037,,0.300783472
+204777,2024,354550,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2038,,0.301953241
+222861,2024,376276,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2039,,0.30312301
+240795,2024,398002,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2040,,0.30429278
+258429,2024,419728,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2041,,0.305462549
+276397,2024,441454,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2042,,0.306632319
+293922,2024,463180,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2043,,0.307802088
+311839,2024,484906,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2044,,0.308971857
+329787,2024,506632,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2045,,0.310141627
+347535,2024,528358,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2046,,0.311311396
+365566,2024,550084,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2047,,0.312481166
+383586,2024,571810,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2048,,0.313650935
+401668,2024,593536,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2049,,0.314820704
+419542,2024,615262,CF,R&D,,20,UtilityPV,Utility PV,Class4,Tracking PV,Class4,Utility PV - Class 4,0,Utility,Y,Moderate,2050,,0.315990474
+86755,2024,2104,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2022,$/kW,1665.786583
+109154,2024,23830,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2023,$/kW,1786.313554
+287422,2024,45556,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2024,$/kW,1676.094855
+434529,2024,67282,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2025,$/kW,1569.099073
+451272,2024,89008,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2026,$/kW,1536.869903
+8013,2024,110734,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2027,$/kW,1504.640734
+24701,2024,132460,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2028,$/kW,1472.411564
+41486,2024,154186,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2029,$/kW,1440.182394
+58813,2024,175912,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2030,$/kW,1407.953224
+76446,2024,197638,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2031,$/kW,1393.300972
+94210,2024,219364,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2032,$/kW,1378.648721
+111481,2024,241090,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2033,$/kW,1363.99647
+129275,2024,262816,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2034,$/kW,1349.344219
+147113,2024,284542,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2035,$/kW,1334.691968
+164972,2024,306268,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2036,$/kW,1320.039717
+182784,2024,327994,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2037,$/kW,1305.387465
+200808,2024,349720,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2038,$/kW,1290.735214
+218901,2024,371446,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2039,$/kW,1276.082963
+236848,2024,393172,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2040,$/kW,1261.430712
+254553,2024,414898,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2041,$/kW,1246.778461
+272439,2024,436624,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2042,$/kW,1232.12621
+289935,2024,458350,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2043,$/kW,1217.473958
+307913,2024,480076,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2044,$/kW,1202.821707
+325846,2024,501802,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2045,$/kW,1188.169456
+343715,2024,523528,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2046,$/kW,1173.517205
+361605,2024,545254,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2047,$/kW,1158.864954
+379616,2024,566980,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2048,$/kW,1144.212703
+397739,2024,588706,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2049,$/kW,1129.560451
+415558,2024,610432,CAPEX,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2050,$/kW,1114.9082
+77099,2024,1984,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2022,$/kW*yr,32.44304727
+108169,2024,23710,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2023,$/kW*yr,32.045638
+286437,2024,45436,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2024,$/kW*yr,31.64822874
+434426,2024,67162,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2025,$/kW*yr,31.25081947
+451181,2024,88888,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2026,$/kW*yr,30.85341021
+7911,2024,110614,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2027,$/kW*yr,30.45600094
+24599,2024,132340,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2028,$/kW*yr,30.05859168
+41384,2024,154066,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2029,$/kW*yr,29.66118241
+58711,2024,175792,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2030,$/kW*yr,29.26377315
+76355,2024,197518,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2031,$/kW*yr,29.06326211
+94119,2024,219244,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2032,$/kW*yr,28.86275107
+111378,2024,240970,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2033,$/kW*yr,28.66224003
+129171,2024,262696,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2034,$/kW*yr,28.46172899
+147010,2024,284422,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2035,$/kW*yr,28.26121796
+164881,2024,306148,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2036,$/kW*yr,28.06070692
+182682,2024,327874,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2037,$/kW*yr,27.86019588
+200705,2024,349600,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2038,$/kW*yr,27.65968484
+218798,2024,371326,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2039,$/kW*yr,27.4591738
+236746,2024,393052,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2040,$/kW*yr,27.25866277
+254462,2024,414778,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2041,$/kW*yr,27.05815173
+272348,2024,436504,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2042,$/kW*yr,26.85764069
+289832,2024,458230,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2043,$/kW*yr,26.65712965
+307808,2024,479956,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2044,$/kW*yr,26.45661861
+325744,2024,501682,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2045,$/kW*yr,26.25610757
+343625,2024,523408,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2046,$/kW*yr,26.05559654
+361502,2024,545134,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2047,$/kW*yr,25.8550855
+379513,2024,566860,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2048,$/kW*yr,25.65457446
+397635,2024,588586,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2049,$/kW*yr,25.45406342
+415455,2024,610312,Fixed O&M,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2050,$/kW*yr,25.25355238
+69955,2024,1894,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2022,,0.448106
+107439,2024,23620,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2023,,0.451522
+285707,2024,45346,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2024,,0.454938
+434326,2024,67072,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2025,,0.458354
+451091,2024,88798,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2026,,0.46177
+7812,2024,110524,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2027,,0.465186
+24504,2024,132250,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2028,,0.468602
+41284,2024,153976,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2029,,0.472018
+58612,2024,175702,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2030,,0.475434
+76261,2024,197428,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2031,,0.4758183
+94020,2024,219154,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2032,,0.4762026
+111279,2024,240880,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2033,,0.4765869
+129072,2024,262606,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2034,,0.4769712
+146910,2024,284332,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2035,,0.4773555
+164790,2024,306058,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2036,,0.4777398
+182583,2024,327784,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2037,,0.4781241
+200609,2024,349510,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2038,,0.4785084
+218698,2024,371236,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2039,,0.4788927
+236646,2024,392962,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2040,,0.479277
+254368,2024,414688,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2041,,0.4796613
+272249,2024,436414,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2042,,0.4800456
+289732,2024,458140,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2043,,0.4804299
+307708,2024,479866,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2044,,0.4808142
+325645,2024,501592,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2045,,0.4811985
+343535,2024,523318,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2046,,0.4815828
+361402,2024,545044,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2047,,0.4819671
+379417,2024,566770,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2048,,0.4823514
+397535,2024,588496,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2049,,0.4827357
+415355,2024,610222,CF,R&D,,20,LandbasedWind,Land-Based Wind,Class4,Wind Turbine Technology 1,Class4,Land-Based Wind - Class 4 - Technology 1,1,Utility,Y,Moderate,2050,,0.48312
+80074,2024,20215,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2022,$/kW,2100.778231
+258169,2024,41941,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2023,$/kW,2080.296182
+432024,2024,63667,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2024,$/kW,1938.20367
+448895,2024,85393,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2025,$/kW,1711.402977
+5571,2024,107119,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2026,$/kW,1659.394139
+22302,2024,128845,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2027,$/kW,1607.381486
+39085,2024,150571,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2028,$/kW,1555.364557
+55770,2024,172297,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2029,$/kW,1503.342813
+73656,2024,194023,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2030,$/kW,1451.315621
+91306,2024,215749,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2031,$/kW,1430.530431
+108447,2024,237475,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2032,$/kW,1409.745888
+126243,2024,259201,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2033,$/kW,1388.962018
+144020,2024,280927,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2034,$/kW,1368.178848
+161830,2024,302653,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2035,$/kW,1347.396404
+179589,2024,324379,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2036,$/kW,1326.614717
+197614,2024,346105,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2037,$/kW,1305.833818
+215712,2024,367831,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2038,$/kW,1285.053739
+233618,2024,389557,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2039,$/kW,1264.274516
+251598,2024,411283,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2040,$/kW,1243.496185
+269364,2024,433009,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2041,$/kW,1222.718784
+286716,2024,454735,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2042,$/kW,1201.942355
+304711,2024,476461,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2043,$/kW,1181.166942
+322621,2024,498187,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2044,$/kW,1160.392589
+340585,2024,519913,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2045,$/kW,1139.619347
+358370,2024,541639,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2046,$/kW,1118.847268
+376452,2024,563365,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2047,$/kW,1098.076406
+394546,2024,585091,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2048,$/kW,1077.306821
+412324,2024,606817,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2049,$/kW,1056.538576
+430302,2024,628543,CAPEX,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2050,$/kW,1035.771737
+79692,2024,20170,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2022,$/kW*yr,48.168
+257787,2024,41896,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2023,$/kW*yr,47.674
+431990,2024,63622,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2024,$/kW*yr,44.24691603
+448865,2024,85348,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2025,$/kW*yr,38.77678245
+5537,2024,107074,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2026,$/kW*yr,37.52239788
+22271,2024,128800,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2027,$/kW*yr,36.2679213
+39050,2024,150526,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2028,$/kW*yr,35.01334158
+55740,2024,172252,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2029,$/kW*yr,33.75864573
+73624,2024,193978,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2030,$/kW*yr,32.50381849
+91276,2024,215704,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2031,$/kW*yr,32.00250712
+108417,2024,237430,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2032,$/kW*yr,31.50121137
+126212,2024,259156,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2033,$/kW*yr,30.99993184
+143985,2024,280882,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2034,$/kW*yr,30.49866917
+161800,2024,302608,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2035,$/kW*yr,29.99742405
+179555,2024,324334,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2036,$/kW*yr,29.49619717
+197582,2024,346060,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2037,$/kW*yr,28.99498929
+215677,2024,367786,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2038,$/kW*yr,28.49380121
+233588,2024,389512,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2039,$/kW*yr,27.99263375
+251568,2024,411238,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2040,$/kW*yr,27.4914878
+269332,2024,432964,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2041,$/kW*yr,26.9903643
+286685,2024,454690,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2042,$/kW*yr,26.48926424
+304681,2024,476416,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2043,$/kW*yr,25.98818867
+322587,2024,498142,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2044,$/kW*yr,25.48713869
+340555,2024,519868,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2045,$/kW*yr,24.9861155
+358335,2024,541594,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2046,$/kW*yr,24.48512034
+376421,2024,563320,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2047,$/kW*yr,23.98415456
+394511,2024,585046,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2048,$/kW*yr,23.48321956
+412293,2024,606772,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2049,$/kW*yr,22.98231688
+430271,2024,628498,Fixed O&M,R&D,,20,Utility-Scale Battery Storage,Utility-Scale Battery Storage,4Hr Battery Storage,Lithium Ion - 4 Hr,,Utility-Scale Battery Storage - 4Hr,1,Utility,Y,Moderate,2050,$/kW*yr,22.48144811
+24252,2024,13168,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2022,$/kW,6357.064448
+200141,2024,34894,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2023,$/kW,6357.064448
+378952,2024,56620,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2024,$/kW,6357.064448
+443464,2024,78346,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2025,$/kW,6357.064448
+81,2024,100072,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2026,$/kW,6056.881565
+16818,2024,121798,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2027,$/kW,5756.698683
+33579,2024,143524,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2028,$/kW,5456.5158
+50308,2024,165250,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2029,$/kW,5156.332918
+67864,2024,186976,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2030,$/kW,4856.150035
+85284,2024,208702,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2031,$/kW,4555.967153
+102733,2024,230428,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2032,$/kW,4256.848749
+120364,2024,252154,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2033,$/kW,3956.665866
+138172,2024,273880,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2034,$/kW,3656.482984
+156046,2024,295606,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2035,$/kW,3356.300101
+173745,2024,317332,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2036,$/kW,3356.300101
+191691,2024,339058,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2037,$/kW,3356.300101
+209800,2024,360784,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2038,$/kW,3356.300101
+227796,2024,382510,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2039,$/kW,3356.300101
+245801,2024,404236,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2040,$/kW,3222.175835
+263326,2024,425962,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2041,$/kW,3222.175835
+281000,2024,447688,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2042,$/kW,3222.175835
+298802,2024,469414,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2043,$/kW,3222.175835
+316842,2024,491140,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2044,$/kW,3222.175835
+334784,2024,512866,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2045,$/kW,3222.175835
+352448,2024,534592,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2046,$/kW,3222.175835
+370530,2024,556318,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2047,$/kW,3222.175835
+388609,2024,578044,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2048,$/kW,3222.175835
+406533,2024,599770,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2049,$/kW,3222.175835
+424548,2024,621496,CAPEX,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2050,$/kW,3222.175835
+23556,2024,13024,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2022,$/kW*yr,93
+198935,2024,34750,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2023,$/kW*yr,93
+377759,2024,56476,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2024,$/kW*yr,93
+443344,2024,78202,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2025,$/kW*yr,93
+459815,2024,99928,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2026,$/kW*yr,93
+16696,2024,121654,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2027,$/kW*yr,93
+33471,2024,143380,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2028,$/kW*yr,93
+50190,2024,165106,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2029,$/kW*yr,93
+67756,2024,186832,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2030,$/kW*yr,93
+85165,2024,208558,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2031,$/kW*yr,93
+102624,2024,230284,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2032,$/kW*yr,93
+120241,2024,252010,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2033,$/kW*yr,93
+138063,2024,273736,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2034,$/kW*yr,93
+155927,2024,295462,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2035,$/kW*yr,93
+173620,2024,317188,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2036,$/kW*yr,93
+191567,2024,338914,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2037,$/kW*yr,93
+209691,2024,360640,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2038,$/kW*yr,93
+227677,2024,382366,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2039,$/kW*yr,93
+245693,2024,404092,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2040,$/kW*yr,93
+263209,2024,425818,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2041,$/kW*yr,90
+280891,2024,447544,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2042,$/kW*yr,90
+298678,2024,469270,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2043,$/kW*yr,90
+316731,2024,490996,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2044,$/kW*yr,90
+334664,2024,512722,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2045,$/kW*yr,90
+352324,2024,534448,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2046,$/kW*yr,90
+370406,2024,556174,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2047,$/kW*yr,90
+388499,2024,577900,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2048,$/kW*yr,90
+406416,2024,599626,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2049,$/kW*yr,90
+424440,2024,621352,Fixed O&M,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2050,$/kW*yr,90
+22546,2024,12916,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2022,,0.41
+197861,2024,34642,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2023,,0.41
+376696,2024,56368,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2024,,0.41
+443237,2024,78094,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2025,,0.41
+459700,2024,99820,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2026,,0.41
+16587,2024,121546,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2027,,0.41
+33366,2024,143272,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2028,,0.41
+50079,2024,164998,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2029,,0.41
+67650,2024,186724,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2030,,0.38
+85053,2024,208450,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2031,,0.38
+102519,2024,230176,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2032,,0.38
+120123,2024,251902,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2033,,0.38
+137957,2024,273628,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2034,,0.38
+155822,2024,295354,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2035,,0.38
+173504,2024,317080,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2036,,0.38
+191457,2024,338806,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2037,,0.38
+209585,2024,360532,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2038,,0.38
+227568,2024,382258,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2039,,0.38
+245587,2024,403984,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2040,,0.38
+263098,2024,425710,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2041,,0.38
+280785,2024,447436,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2042,,0.38
+298561,2024,469162,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2043,,0.38
+316625,2024,490888,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2044,,0.38
+334558,2024,512614,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2045,,0.38
+352208,2024,534340,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2046,,0.38
+370296,2024,556066,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2047,,0.38
+388392,2024,577792,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2048,,0.38
+406308,2024,599518,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2049,,0.38
+424334,2024,621244,CF,R&D,,20,Hydropower,Hydropower,NPD2,NPD 2,Hydropower - Lake,Hydropower - NPD 2,0,Utility,Y,Moderate,2050,,0.38
